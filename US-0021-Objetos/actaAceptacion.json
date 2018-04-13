@@ -1,0 +1,24 @@
+{
+    "nombreProyecto":"ejemplo",
+    "nombreDescriptivo":"ejmplo...",
+    "fechaEntrega":"09-01-2018",
+    "nombreDependencia":"",
+    "entregables":[
+        {
+            "descripcion":"...",
+            "fechaEntrega":"09-01-2018",
+            "evidencia":"..."
+        }
+    ],
+    "responsables":[
+        {
+            "nombre":"alguien",
+            "puesto":"ejemplo",
+            "fecha":"09-02-2018",
+            "telExt":"1234 ext 33",
+            "email":"email@domain.com"
+
+        }
+    ]
+
+}
