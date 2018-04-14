@@ -1,10 +1,12 @@
 {
+    "idProyecto":123
     "nombreProyecto":"ejemplo",
     "nombreDescriptivo":"ejmplo...",
     "fechaEntrega":"09-01-2018",
     "nombreDependencia":"",
     "entregables":[
         {
+            "id":2,
             "descripcion":"...",
             "fechaEntrega":"09-01-2018",
             "evidencia":"..."
@@ -12,6 +14,7 @@
     ],
     "responsables":[
         {
+            "id":3
             "nombre":"alguien",
             "puesto":"ejemplo",
             "fecha":"09-02-2018",
