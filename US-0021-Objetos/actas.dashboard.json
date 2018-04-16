@@ -1,7 +1,8 @@
 {
     "idProyecto":1,
-    "idActaConstitutiva":0,
+    "idActa":0,
     "fechaCreacion":"10-01-2018",
     "fechaActualizacion":"10-02-2018",
-    "actaFirmadaEstatus":0
+    "actaFirmadaEstatus":0,
+    "tipo":1
 }

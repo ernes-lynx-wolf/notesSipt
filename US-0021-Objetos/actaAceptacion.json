@@ -1,5 +1,5 @@
 {
-    "idProyecto":123
+    "idProyecto":123,
     "nombreProyecto":"ejemplo",
     "nombreDescriptivo":"ejmplo...",
     "fechaEntrega":"09-01-2018",
@@ -14,7 +14,7 @@
     ],
     "responsables":[
         {
-            "id":3
+            "id":3,
             "nombre":"alguien",
             "puesto":"ejemplo",
             "fecha":"09-02-2018",
