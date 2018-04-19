@@ -17,8 +17,9 @@
              "nombre":"alguien",
              "puesto":"ejemplo",
              "fecha":"09-02-2018",
-             "telExt":"1234 ext 33",
-             "email":"email@domain.com"
+             "telefono":"1234",
+             "extension":"234",
+             "correo":"email@domain.com"
             }
         }
     ],
