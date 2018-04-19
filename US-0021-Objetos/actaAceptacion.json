@@ -9,19 +9,18 @@
             "id":2,
             "descripcion":"...",
             "fechaEntrega":"09-01-2018",
-            "evidencia":"..."
+            "evidencia":"...",
+
+            "responsable":{
+             "id":3,
+             "nombre":"alguien",
+             "puesto":"ejemplo",
+             "fecha":"09-02-2018",
+             "telExt":"1234 ext 33",
+             "email":"email@domain.com"
+            }
         }
     ],
-    "responsables":[
-        {
-            "id":3,
-            "nombre":"alguien",
-            "puesto":"ejemplo",
-            "fecha":"09-02-2018",
-            "telExt":"1234 ext 33",
-            "email":"email@domain.com"
-
-        }
-    ]
+    "formatoAceptacion":{}
 
 }
